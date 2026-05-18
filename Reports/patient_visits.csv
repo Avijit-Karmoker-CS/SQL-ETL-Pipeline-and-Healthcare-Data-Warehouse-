@@ -1,0 +1,7 @@
+visit_id,patient_id,patient_name,age,gender,department,provider_name,visit_date,arrival_time,seen_time,discharge_time,diagnosis,total_cost
+1,101,Ahmed Khan,45,M,Emergency,Dr. Smith,2026-04-01,08:10,08:45,10:30,Chest Pain,450
+2,102,Sarah Lee,32,F,Cardiology,Dr. Brown,2026-04-01,09:00,09:25,10:15,Hypertension,300
+3,103,David Miller,67,M,Emergency,Dr. Smith,2026-04-02,10:15,11:00,13:10,Shortness of Breath,700
+4,104,Maria Garcia,29,F,Pediatrics,Dr. Wilson,2026-04-02,11:00,11:20,12:00,Fever,180
+5,105,John White,54,M,Orthopedics,Dr. Taylor,2026-04-03,13:30,14:10,15:45,Back Pain,250
+6,106,Aisha Rahman,41,F,Cardiology,Dr. Brown,2026-04-03,14:00,14:40,16:00,Arrhythmia,520
