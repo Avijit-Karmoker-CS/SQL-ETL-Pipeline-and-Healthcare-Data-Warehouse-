@@ -1,0 +1,5 @@
+visit_id,patient_name,department_name,provider_name,wait_minutes
+3,David Miller,Emergency,Dr. Smith,45
+5,John White,Orthopedics,Dr. Taylor,40
+6,Aisha Rahman,Cardiology,Dr. Brown,40
+1,Ahmed Khan,Emergency,Dr. Smith,35
